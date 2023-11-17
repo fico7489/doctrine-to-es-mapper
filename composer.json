@@ -1,0 +1,5 @@
+{
+    "name": "fico7489/doctrine-to-es-mapper",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
